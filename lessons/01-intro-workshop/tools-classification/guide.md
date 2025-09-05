@@ -86,10 +86,22 @@ Sirven para **desprender viruta del material mediante filo**, ya sea manualmente
 
 - **Lima**: desgasta o ajusta superficies finas.
 - **Sierra manual**: corta metal, madera o plástico.
-- **Cincel**: corta o rebaja material mediante golpes.
-- **Cortafrío**: corta o separa metal frío.
-- **Buril**: talla o graba superficies; se incluye aquí por “corte de detalle”.
+- **Cincel**: Corta por golpes de martillo o masa. Viene para distintos materiales como madera (formón), piedra, metal, etc. Y vienen también en distinta forma según la aplicación. Tiene una hoja afilada y resistente que puede soportar los golpes sin romperse. El más común para cortar metal es uno muy robusto llama también **"cortafrío"** (corta el metal sin necesidad de calentarlo). Pero también se pueden encontrar con formas y tamaños diversos según la necesidad.
+<span hidden>Image</span>
+   <center>![](https://m.media-amazon.com/images/I/71-I5CSyTsL.__AC_SY300_SX300_QL70_FMwebp_.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Cortafríos. </span>
+      <span class="grey3 size50">Fuente: Amazon</span>
+   </center><br>
+- **Buril**: corta usando golpes suaves y precisos con martillo; se utiliza para grabar, tallar o hacer cortes de detalle fino.
+<span hidden>Image</span>
+   <center>![](https://acdn-us.mitiendanube.com/stores/001/133/433/products/gubias-chicas-detalle1-67707a959c8982039715986774785227-480-0.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Buriles. </span>
+      <span class="grey3 size50">Fuente: Casa Wasser</span>
+   </center><br>
 - **Lijas**: trabajan por abrasión, eliminando pequeñas virutas del material.
+
 
 #### **Máquinas**
 
