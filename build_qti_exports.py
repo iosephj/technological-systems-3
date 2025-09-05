@@ -5,7 +5,7 @@ export_dir = Path("exports")
 export_dir.mkdir(exist_ok=True)  # Crea la carpeta 'exports' si no existe
 
 # Busca recursivamente todos los archivos llamados qti.md
-for file_path in Path(".").rglob("qti.md"):
+for file_path in Path(".").rglob("qti.zip"):
     parts = file_path.parts  # Obtiene cada parte de la ruta como una tupla
 
     # Construye el nuevo nombre usando las carpetas contenedoras
