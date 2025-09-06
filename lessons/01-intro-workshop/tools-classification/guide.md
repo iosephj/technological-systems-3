@@ -51,19 +51,19 @@ En un taller mecánico se utilizan distintos elementos para **medir, marcar, cor
 
 ## Instrumentos de medición y marcado
 
-<span hidden>Image</span>
-   <center>![](caliper_logo_03__pixabay__gratis.jpg){width=400px}</center>
-   <center>
-      <span class="grey3 size70">Calibre Vernier. </span>
-      <span class="grey3 size50">Fuente: Pixabay</span>
-   </center><br>
-
 Sirven para **medir dimensiones, verificar ángulos, trazar líneas o marcar puntos de referencia**.
 
 ### Ejemplos:
 
-- **Escuadra**: comprueba ángulos de 90°.
+- **Escuadra fija de 90°**: comprueba perpendicularidad y planitud.
 - **Calibre Vernier (pie de rey)**: mide longitudes, diámetros y profundidades.
+<br>
+<span hidden>Image</span>
+   <center>![](caliper_logo_03__pixabay__gratis.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
 - **Punta de marcar y punta de trazar**: guían cortes o perforaciones.
 
 
@@ -78,52 +78,91 @@ Sirven para **desprender viruta del material mediante filo**, ya sea manualmente
 
 #### **Manual**
 
+- **Lima**: herramienta que desgasta superficies para dar forma o lograr un ajuste preciso.
+<br>
 <span hidden>Image</span>
-   <center>![](hand_tool_logo_03.svg){width=400px}</center>
+   <center>![](https://http2.mlstatic.com/D_NQ_NP_711213-MLU78230477601_082024-O.webp){width=250px}</center>
    <center>
-      <span class="grey3 size70">Lima y sierra manual. </span>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
    </center><br>
-
-- **Lima**: desgasta o ajusta superficies finas.
 - **Sierra manual**: corta metal, madera o plástico.
-- **Cincel**: Corta por golpes de martillo o masa. Viene para distintos materiales como madera (formón), piedra, metal, etc. Y vienen también en distinta forma según la aplicación. Tiene una hoja afilada y resistente que puede soportar los golpes sin romperse. El más común para cortar metal es uno muy robusto llama también **"cortafrío"** (corta el metal sin necesidad de calentarlo). Pero también se pueden encontrar con formas y tamaños diversos según la necesidad.
+<br>
+<span hidden>Image</span>
+   <center>![](hand_tool_hacksaw__allfreedownloads__no-redistribution.svg){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
+- **Cortafrío**: es un tipo de cincel utilizado para cortar metal sin necesidad de calentarlo y se emplea junto con un martillo o maza como lo puedes ver [aquí](https://www.youtube.com/shorts/d8TWl__Osls). Su forma puede variar según la tarea.
+<br>
 <span hidden>Image</span>
    <center>![](https://m.media-amazon.com/images/I/71-I5CSyTsL.__AC_SY300_SX300_QL70_FMwebp_.jpg){width=250px}</center>
    <center>
-      <span class="grey3 size70">Cortafríos. </span>
-      <span class="grey3 size50">Fuente: Amazon</span>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
    </center><br>
 - **Buril**: corta usando golpes suaves y precisos con martillo; se utiliza para grabar, tallar o hacer cortes de detalle fino.
+<br>
 <span hidden>Image</span>
    <center>![](https://acdn-us.mitiendanube.com/stores/001/133/433/products/gubias-chicas-detalle1-67707a959c8982039715986774785227-480-0.jpg){width=250px}</center>
    <center>
-      <span class="grey3 size70">Buriles. </span>
-      <span class="grey3 size50">Fuente: Casa Wasser</span>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
    </center><br>
 - **Lijas**: trabajan por abrasión, eliminando pequeñas virutas del material.
 
 
 #### **Máquinas**
 
+- **Taladro portátil**: perfora con brocas (mechas).
+<br>
 <span hidden>Image</span>
-   <center>![](https://cancelarich.com.ar/maquinarias-tornos-fresadoras-rectificadoras/wp-content/uploads/2018/08/torno-cm-36l-1000.jpg){width=400px}</center>
+   <center>![](powerdrill_01_320px__pixabay__gratis sin reconocimiento.jpg){width=250px}</center>
    <center>
-      <span class="grey3 size70">Torno. </span>
-      <span class="grey3 size50">Fuente: cancelarich.com.ar</span>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
    </center><br>
-
-<span hidden>Image</span>
-   <center>![](https://i0.wp.com/fat.es/wp-content/uploads/2019/02/sierra-cinta-semiautomatica-grandes-dimensiones-61.41-SA-DI-MD_71.png?fit=730%2C610&ssl=1){width=400px}</center>
-   <center>
-      <span class="grey3 size70">Sierra de cinta. </span>
-      <span class="grey3 size50">Fuente: fat.es</span>
-   </center><br>
-
-- **Taladro portátil**: perfora con brocas.
 - **Amoladora angular**: corta y desbasta abrasivamente según el disco.
+<br>
+<span hidden>Image</span>
+   <center>![](anglegrinder_01__freesvg_publicdomain.svg){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
 - **Amoladora de banco**: desbasta o afila piezas y herramientas mediante abrasión.
+<br>
+<span hidden>Image</span>
+   <center>![](https://http2.mlstatic.com/D_NQ_NP_620262-MLA73747727093_012024-O.webp){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
 - **Sierra de cinta**: corta metal usando una cinta sin fin
+<br>
+<span hidden>Image</span>
+   <center>![](https://i0.wp.com/fat.es/wp-content/uploads/2019/02/sierra-cinta-semiautomatica-grandes-dimensiones-61.41-SA-DI-MD_71.png?fit=730%2C610&ssl=1){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
 - **Taladro de banco, torno, fresadora**: mecanizan piezas con mayor precisión y potencia.
+<br>
+<span hidden>Image</span>
+   <center>![](https://www.abrafersrl.com.ar/wp-content/uploads/TMB20.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Taladro de banco</span>
+      <span class="grey3 size50"></span>
+   </center><br>
+<br>
+<span hidden>Image</span>
+   <center>![](https://cancelarich.com.ar/maquinarias-tornos-fresadoras-rectificadoras/wp-content/uploads/2018/08/torno-cm-36l-1000.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Torno</span>
+      <span class="grey3 size50"></span>
+   </center><br>
+
 
 > **Nota:** las máquinas grandes y fijas, como el torno o la fresadora, se denominan **máquinas-herramienta** en la industria del mecanizado.
 
@@ -133,19 +172,26 @@ Sirven para **desprender viruta del material mediante filo**, ya sea manualmente
 
 ## Equipos de unión
 
-<span hidden>Image</span>
-   <center>![](https://www.repuestoscimer.com.ar/images/productos/16239453001598710442WhatsApp_Image_2020-08-29_at_11.00.11__1_-removebg-preview.png){width=300px}</center>
-   <center>
-      <span class="grey3 size70">Soldadora autógena. </span>
-      <span class="grey3 size50">Fuente: repuestoscimer.com.ar</span>
-   </center><br>
-
 Sirven para **unir piezas metálicas mediante calor o presión**.
 
 ### Ejemplos
 
-- **Soldadora inverter**: arco eléctrico funde metal y electrodo.
-- **Soldadora autógena**: funde material con gases (oxígeno y acetileno).
+- **Soldadora inverter**: utiliza un arco eléctrico para fundir el metal base y el electrodo revestido, logrando la unión mediante cordón de soldadura.
+<br>
+<span hidden>Image</span>
+   <center>![](https://http2.mlstatic.com/D_NQ_NP_618314-MLA70565335869_072023-O.webp){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center><br>
+- **Soldadora autógena (oxigas)**: utiliza una mezcla de oxígeno con un gas combustible para fundir el material; el gas más frecuente es el acetileno, aunque también se pueden usar propano, hidrógeno u otros.
+<br>
+<span hidden>Image</span>
+   <center>![](https://http2.mlstatic.com/D_NQ_NP_620932-MLA89309583975_082025-O.webp){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center>
 
 
 <br><br>
@@ -153,19 +199,27 @@ Sirven para **unir piezas metálicas mediante calor o presión**.
 
 ## Máquinas y equipos de conformado
 
-<span hidden>Image</span>
-   <center>![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5iaNR-OiiMYzaUDEMNqE79CqEfB-Zt0Avw&s){width=400px}</center>
-   <center>
-      <span class="grey3 size70">Forjado de una pieza. </span>
-      <span class="grey3 size50">Fuente: deltametal.fr</span>
-   </center><br>
-
 Permiten **dar forma a materiales sin quitar viruta**, por presión o calor.
 
 ### Ejemplos:
 
 - Prensas: cortan, doblan o estampan.
+<br>
+<span hidden>Image</span>
+   <center>![](https://img.freepik.com/fotos-premium/proceso-doblado-chapa-maquina-dobladora-hidraulica-planta-metalmecanica_347372-1032.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Prensa para doblado</span>
+      <span class="grey3 size50"></span>
+   </center>
+<br>
 - Equipos de forja: deforman metales mediante calor y fuerza.
+<br>
+<span hidden>Image</span>
+   <center>![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5iaNR-OiiMYzaUDEMNqE79CqEfB-Zt0Avw&s){width=250px}</center>
+   <center>
+      <span class="grey3 size70">Forjado de una pieza</span>
+      <span class="grey3 size50"></span>
+   </center>
 
 
 <br><br>
@@ -173,28 +227,37 @@ Permiten **dar forma a materiales sin quitar viruta**, por presión o calor.
 
 ## Equipos auxiliares
 
-<span hidden>Image</span>
-   <center>![](https://dcdn-us.mitiendanube.com/stores/126/629/products/12166616_10153670419759476_1101117447_n1-e767be4ae91505e29515122777955394-1024-1024.jpg){width=300px}</center>
-   <center>
-      <span class="grey3 size70">Banco de trabajo. </span>
-      <span class="grey3 size50">Fuente: migarage.com</span>
-   </center><br>
-
-<span hidden>Image</span>
-   <center>![](https://ragagliaferreteriaindustrial.com.ar/wp-content/uploads/099004-300x217.jpg){width=300px}</center>
-   <center>
-      <span class="grey3 size70">Morsa. </span>
-      <span class="grey3 size50">Fuente: regagliaferreteriaindustrial.com.ar</span>
-   </center><br>
-
 No cortan ni unen, pero facilitan y aseguran el trabajo.
 
 ### Ejemplos:
 
 - Bancos de trabajo
+<br>
+<span hidden>Image</span>
+   <center>![](https://dcdn-us.mitiendanube.com/stores/126/629/products/12166616_10153670419759476_1101117447_n1-e767be4ae91505e29515122777955394-1024-1024.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center>
+<br>
 - Morsas (para sujetar piezas)
+<br>
+<span hidden>Image</span>
+   <center>![](https://ragagliaferreteriaindustrial.com.ar/wp-content/uploads/099004-300x217.jpg){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center>
+<br>
 - Gatos (para levantar cargas)
-
+<br>
+<span hidden>Image</span>
+   <center>![](https://http2.mlstatic.com/D_NQ_990435-MLA85410523981_052025-V.webp){width=250px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center>
+<br>
 
 <!-- HTML style definitions -->
 <style>

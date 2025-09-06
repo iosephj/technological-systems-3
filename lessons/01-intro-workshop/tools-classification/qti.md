@@ -1,57 +1,28 @@
-Quiz title: Ejercicio interactivo sobre seguridad e higiene
+Quiz title: Ejercicio interactivo sobre clasificación general de herramientas, instrumentos y máquinas
 
 GROUP
 
 pick: 1
 points per question: 1
 
-1. Selecciona la opción correcta. ¿Por qué es importante mantener el taller limpio y ordenado?
-*a) Para reducir riesgos de accidentes y mejorar la eficiencia
-b) Para que los profesores y directivos tengan buena opinión del curso
-c) Para tener más espacio para almacenar materiales
-d) Para gastar menos energía eléctrica
+1. Selecciona la opción correcta. ¿Qué instrumento se utiliza para comprobar ángulos rectos de 90°?
+a) Calibre Vernier
+*b) Escuadra
+c) Cincel
+d) Regla
 
-2. Elige todas las opciones correctas. Trabajar con herramientas, máquinas y materiales sin cuidados puede:
-[*] Provocar accidentes
-[*] Aumentar el tiempo perdido
-[ ] Mejorar la producción
-[ ] Hacer el taller más organizado 
+2. Elige todas las opciones correctas. El Calibre Vernier puede medir:
+[*] Diámetros exteriores
+[*] Diámetros interiores
+[*] Profundidades
+[ ] Ángulos
+[ ] Planitud
 
-3. Selecciona la opción correcta. Mantener hábitos seguros en el taller permite:
-a) Producir menos
-*a) Trabajar mejor y perder menos tiempo
-b) Evitar todo tipo de accidentes sin necesidad de EPPs
-
-END_GROUP
-
-
-
-GROUP
-
-pick: 1
-points per question: 1
-
-4. Selecciona la opción correcta. ¿Dónde nació la metodología 5S?
-a) Estados Unidos
-*b) Japón
-c) Alemania
-d) China
-
-5. Elige todas las opciones correctas. La metodología 5S busca:
-[*] Mantener el taller limpio y ordenado
-[*] Reducir accidentes
-[ ] Reducir el salario de los trabajadores
-[ ] Aumentar el desorden apuntando a una mayor creatividad 
-
-6. Responde con una sola palbra en minúscula ¿En qué empresa se implementó por primera vez el método 5S tras la Segunda Guerra Mundial?
-* toyota
-* Toyota
-
-7. Selecciona la opción correcta. ¿Por qué se llama 5S?
-a) Porque son 5 segundos de seguridad
-b) Porque hay cinco supervisores
-*c) Porque se basa en cinco pasos que empiezan con "S" en japonés
-d) Porque se basa en cinco palabras que empiezan con "S" en inglés
+3. ¿Qué herramienta se usa para marcar puntos de referencia sobre una pieza metálica?
+*a) Punta de marcar
+b) Lima
+c) Cortafrío
+d) Cincel
 
 END_GROUP
 
@@ -62,40 +33,63 @@ GROUP
 pick: 2
 points per question: 1
 
-8. Elige todas las opciones correctas. ¿Qué pasos incluye el método 5S?
-[*] Seiri – Clasificar
-[*] Seiton – Ordenar
-[*] Seiso – Limpiar
-[*] Seiketsu – Estandarizar
-[*] Shitsuke – Disciplina
-[ ] Shunkan – Acelerar
-[ ] Shikaku – Diseñar
+4. Poner la palabra que falta en minúscula: La sierra _____ corta metal, madera o plástico.
+* Manual
+* manual
 
-9. Selecciona la opción correcta. "Seiri" significa:
-*a) Separar lo necesario de lo innecesario
-b) Ordenar cada cosa en su lugar
-c) Limpiar el taller
-d) Diferenciar lo correcto de lo incorrecto
+5. Selecciona la opción correcta. ¿Qué herramienta manual corta metal golpeando?
+a) Lima
+*b) Cortafrío
+c) Sierra manual
+d) Martillo
 
-10. Selecciona la opción correcta. ¿Cuál es el objetivo de "Shitsuke"? 
-*a) Formar el hábito de aplicar las 5S todos los días
-b) Mantener reglas simples para que el orden y limpieza se repitan
-c) Separar lo necesario de lo innecesario 
-d) Ordenar cada cosa en su lugar
+6. Elige todas las opciones correctas. Entre las herramientas o máquinas de corte por abrasión encontramos:
+[ ] Lima
+[*] Amoladora de banco
+[*] Lijas
+[ ] Buril
+[ ] Sierra manual
 
-11. Selecciona la opción correcta. ¿Cuál es el objetivo de "Seiketsu"? 
-a) Separar lo necesario de lo innecesario 
-b) Formar hábitos 
-*c) Mantener reglas simples para que el orden y limpieza se repitan
-d) Hacer reglas para ordenar herramientas
+7. Selecciona la opción correcta. ¿Cuál de estas máquinas se considera una máquina-herramienta en la industria?
+a) Amoladora angular
+b) Taladro portátil
+*c) Torno
+d) Gato mecánico
 
-12. ¿Qué palabra japonesa corresponde a formar el hábito de aplicar las 5S todos los días? Responde con la palabra en minúscula.
-* shitsuke
-* Shitsuke
+8. ¿Qué herramienta se utiliza para cortar metal en frío con golpes? Poner la respuesta en minúscula con ortografía correcta.
+* cortafrío
+* Cortafrío
 
-13. Escribe la palabra japonesa que corresponde a eliminar polvo, restos de material y suciedad. Responde con la palabra en minúscula.
-* seiso
-* Seiso
+END_GROUP
+
+
+
+GROUP
+
+pick: 2
+points per question: 1
+
+9. Selecciona la opción correcta. ¿Qué tipo de soldadora utiliza oxígeno y acetileno para fundir el metal?
+a) Inverter
+*b) Autógena
+c) De banco
+d) De hilo
+
+10. Elige todas las opciones correctas. Una soldadora inverter funciona:
+[*] Mediante arco eléctrico
+[*] Fundiendo electrodo y material base
+[ ] Usando gases oxígeno–acetileno
+[ ] Por abrasión de discos
+
+11. Pon la palabra que falta en minúscula: La soldadura es un proceso que une piezas metálicas por _____ sin necesidad de presión mecánica externa.
+* calor
+* Calor
+
+12. Selecciona la opción correcta. ¿Cuál de estos equipos NO es un equipo de unión?
+a) Soldadora inverter
+b) Soldadora autógena
+*c) Amoladora de banco
+d) Soldadora de oxígeno-acetileno
 
 END_GROUP
 
@@ -106,38 +100,33 @@ GROUP
 pick: 1
 points per question: 1
 
-14. Elige todas las opciones correctas. Algunos ejemplos de EPPs son:
-[*] Guantes
-[*] Lentes
-[*] Calzado de seguridad
-[*] Protectores auditivos
-[ ] Lentes de contacto
-[ ] Calzado de cuero
+13. Selecciona la opción correcta. ¿Qué máquina permite doblar o estampar una chapa metálica?
+a) Sierra de cinta
+b) Banco de trabajo
+*c) Prensa
+d) Amoladora de banco
 
-15. Selecciona la opción correcta. ¿Qué protegen los guantes en el taller?
-*a) Cortes y quemaduras
-b) Golpes en los dedos por herramientas pesadas
-c) Frío extremo
-d) La audición
-e) La visión
+14. Elige todas las opciones correctas. Son ejemplos de equipos de conformado:
+[*] Prensa
+[*] Equipo de forja
+[ ] Lima
+[ ] Amoladora de banco
+[ ] Morsa
 
-16. Selecciona la opción correcta. ¿Qué indica la regla clave sobre los EPPs?
-a) Es opcional usarlos
-*b) Ningún trabajo comienza sin el EPP correspondiente
-c) Solo se usa si hay supervisores o profesores presentes
+15. ¿Cómo se llama el proceso de dar forma a un metal calentándolo al rojo y golpeándolo? Responde con una sola palabra en minúscula.
+* Forjado
+* fojado
+* Forja
+* forja
 
-17. ¿Cuál es la primera medida de protección?
-*a) Ser responsable y cuidadoso, actitud preventiva
-b) Usar los EPPs correspondientes
-c) Tener la ropa adecuada
-
-18. ¿Cuál es la primera protección que tienes antes de usar un EPP?
-*a) Tu actitud esponsable y cuidadosa
-b) La ropa de trabajo
-c) El casco
-d) La iluminación correcta
+16. Selecciona la opción correcta. En los procesos de conformado, a diferencia del mecanizado:
+a) Siempre se quita viruta
+*b) Se cambia la forma sin quitar viruta
+c) Solo se trabaja con plásticos
+d) Se requieren instrumentos de medición
 
 END_GROUP
+
 
 
 
@@ -146,49 +135,23 @@ GROUP
 pick: 1
 points per question: 1
 
-19. Selecciona la opción correcta. ¿Con qué frecuencia debe hacerse idelmente el mantenimiento del taller? 
-a) Solo al final de grandes tareas
-*b) Todos los días
-c) Una vez al mes
+17. Selecciona la opción correcta. ¿Cuál de los siguientes es un equipo auxiliar y no de corte?
+a) Amoladora
+b) Torno
+*c) Morsa
+d) Fresadora
 
-20. ¿Sobre quién recae la tarea de mantener limpio el taller? 
-*a) Sobre todos y cada uno de los que están allí
-b) Sobre los supervisores o profesores
-c) Sobre los designados para la tarea de limpieza al final de la hora
-d) Sobre el personal de limpieza
+18. Elige todas las opciones correctas. Los equipos auxiliares se usan para:
+[*] Sujetar piezas
+[*] Sostener el trabajo
+[*] Elevar cargas
+[ ] Desbastar material
+[ ] Soldar piezas
 
-21. ¿Quién debe levantar un boyo de papel tirado en el suelo?
-*a) Cualquiera que pase y lo vea
-b) El que lo tiró, aunque ya no esté en ese momento
-c) El personal de limpieza
-
-END_GROUP
-
-
-
-GROUP
-
-pick: 1
-points per question: 1
-
-22. What is your first protection before using an "EPP"?
-*a) Your responsible and careful attitude
-b) Work clothing
-c) The helmet
-d) Proper lighting
-
-23. Select the correct option. Where did the 5S methodology originate?  
-a) United States  
-*b) Japan  
-c) Germany  
-d) China 
-
-24. Which Japanese word corresponds to separating necessary items from unnecessary ones every day? Answer with the word in lowercase.  
-* seiri  
-* Seiri
-
-25. Which Japanese word corresponds to forming the habit of applying the 5S every day? Answer with the word in lowercase. 
-* shitsuke  
-* Shitsuke
+19. Selecciona la opción correcta. ¿Cuál de los siguientes se encuentra típicamente en un taller como equipo auxiliar?
+a) Torno
+b) Fresadora
+c) Amoladora de banco
+*d) Banco de trabajo
 
 END_GROUP
