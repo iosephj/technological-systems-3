@@ -6,26 +6,45 @@ version: "06/04/26"
 
 <!-- *** GUIDE START *** -->
 
-### Introducción
+### Pavonado
 
-En esta materia haremos diseño y contrucción básicas de cosas usando herramientas y máquinas de taller. El diseño incluye la inventiva pero también se apoya en el conocimiento y en el dibujo. La construcción implica conocer y usar correctamente las herramientas, máquinas y diversos instrumentos. Manos a la obra...
-
+<!-- Image -->
+<br>
+   <center>![](pavonado1.png){width=400px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50">Fuente: pinterest.com</span>
+   </center>
 <br>
 
-### Dibujo técnico básico
+**El herrumbre** (óxido rojo) es un tipo de óxido que se forma en presencia de oxígeno y humedad, es poroso y por eso continúa avanzando y termina degradando y desintegrando el acero. 
 
-Empezaremos por repasar y practicar un poco de dibujo técnico siguiendo las normas IRAM pero siempre a mano alzada para lograr hacer croquis rápidos de las ideas que tenemos en mente.
+**El pavonado** es otro tipo de óxido que forma una capa protectora que no permite que el metal se herrumbre.
 
-Lo importante a tener en cuenta:
+El proceso tradicional de pavonar con aceite es muy antiguo y consiste en:
 
-- Grosores de línea [⌕](../../images/tp1/drawing_iram_lines.png)
-- Perspectiva caballera [⌕](../../images/tp1/drawing_iram_cabinet_projection.png)
-- Grosores de línea [⌕](../../images/tp1/drawing_iram_lines.png)
-- Proyecciones ortogonales: vista de frente y vista de planta [⌕](../../images/tp1/drawing_iram_orthog_projections.png)
-- Acotación [⌕](../../images/tp1/drawing_iram_dimensioning.png)
+- Calentar la pieza a unos 300°c
+- Sumergirla en cualquier tipo de aceite (o pasarle un trapo con aceite por toda su superficie caliente).
+- Repetir el proceso si es necesario
 
-**Actividad:** Haz el dibujo según el modelo entregado en papel [⌕](../../images/tp1/drawing1.png) poniendo atención en los espesores de línea. Haz las vistas de frente y planta con cotas. Inventa tus las cotas según las proporciones de la perspectiva.
+<!-- Image -->
+<br>
+   <center>![](pavonado_proceso.svg){width=400px}</center>
+   <center>
+      <span class="grey3 size70"></span>
+      <span class="grey3 size50"></span>
+   </center>
+<br>
 
+> **Importante:** Se debe tener precaución con el fuego. Nunca tirar alcohol directamente a la llama. Conocer el uso del matafuego y tenerlo a mano. 
+
+Muchas piezas se piezas se pavonan [⌕](../../images/tp2/pavonado2.png) para protegerlas del herrumbre y actualmente hay pavonados químicos que no requieren alta temperatura.
+
+**Actividad**
+
+Dibujar el proceso de pavonado y responde esta pregunta: ¿Cómo se estima la temperatura de la pieza si instrumentos?
+
+<!-- *** GUIDE END *** -->
 
 <!-- *** GUIDE AUXILIARY TEMPLATES *** -->
 

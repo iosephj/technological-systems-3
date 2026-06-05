@@ -11,7 +11,7 @@ Este trabajo te permite practicar corte y agujereado en metal que es más duro q
 - [1. Croquis del TP](01-croquis-tp2.html)
 - [2. El calibre Vernier](02-calibre-vernier.html)
 - [3. El taladro de banco](03-taladro-banco.html)
-
+- [4. El pavonado](04-pavonado.html)
 
 Cada una de estas tareas tiene que estar aprobada.
 
