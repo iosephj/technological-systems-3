@@ -20,7 +20,6 @@ Lo importante a tener en cuenta:
 
 - Grosores de línea [⌕](../../images/tp1/drawing_iram_lines.png)
 - Perspectiva caballera [⌕](../../images/tp1/drawing_iram_cabinet_projection.png)
-- Grosores de línea [⌕](../../images/tp1/drawing_iram_lines.png)
 - Proyecciones ortogonales: vista de frente y vista de planta [⌕](../../images/tp1/drawing_iram_orthog_projections.png)
 - Acotación [⌕](../../images/tp1/drawing_iram_dimensioning.png)
 
