@@ -38,11 +38,25 @@ El proceso tradicional de pavonar con aceite es muy antiguo y consiste en:
 
 > **Importante:** Se debe tener precaución con el fuego. Nunca tirar alcohol directamente a la llama. Conocer el uso del matafuego y tenerlo a mano. 
 
-Muchas piezas se piezas se pavonan [⌕](../../images/tp2/pavonado2.png) para protegerlas del herrumbre y actualmente hay pavonados químicos que no requieren alta temperatura.
+Muchas piezas que se venden en el comercio se pavonan [⌕](../../images/tp2/pavonado2.png) para protegerlas del herrumbre y actualmente hay pavonados químicos que no requieren alta temperatura.
 
 **Actividad**
 
 Dibujar el proceso de pavonado y responde esta pregunta: ¿Cómo se estima la temperatura de la pieza si instrumentos?
+
+<div hidden>
+El pavonado tradicional al aceite suele realizarse calentando la pieza de acero entre **280 °C y 350 °C** aproximadamente.
+
+A medida que aumenta la temperatura, la capa de óxido cambia de color:
+
+* ≈ 220 °C: amarillo pajizo.
+* ≈ 250 °C: marrón.
+* ≈ 270 °C: púrpura.
+* ≈ 290–310 °C: azul.
+* ≈ 320–350 °C: azul oscuro a negro.
+
+El procedimiento clásico consiste en calentar uniformemente la pieza hasta alcanzar el color deseado y luego sumergirla en aceite, que ayuda a proteger la capa de óxido y oscurecer el acabado.
+</div>
 
 <!-- *** GUIDE END *** -->
 
