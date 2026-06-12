@@ -1,31 +1,24 @@
 ---
-title: "Sistemas Tecnológicos 3"
+title: ""
 autor: "José Juarez"
 version: "20/05/26"
 ---
 
-<!-- Image -->
-![](portada/portada1.png){width=400px}<br>
+### TP N°3 Trabajo en metal con tolerancias finas y torneado básico
 
-<div class="grey3">
-**Año:** 2026
+Este trabajo te permite practicar entre otras cosas corte, agujereado, limado y torneado básico con mayor precisión en metal. Aprenderás más sobre las herramientas, instumentos y máquinas que vas a usar.
 
-**Profesor:** José Juarez
-</div>
+Este año se propone hacer un martillo japonés similar al que se muestra en este [video](https://www.youtube.com/watch?v=Y2SohdA1ewQ).
 
+<span class="grey3 size80">Tareas</span>
 
-## Trabajos prácticos
+- [1. Croquis del TP](01-croquis-tp2.html)
 
-- [TP 1: Corte y agujereado en madera](tp1/index.html)
-- [TP 2: Corte y agujereado en metal](tp2/index.html)
-- [TP 3: Trabajo en metal con tolerancias finas y torneado básico](tp3/index.html)
+<span class="grey3 size80">Material de consulta</span>
 
-<br>
+- [Pasos para construirlo](support-japanese-hammer-steps.pdf)
 
----
-
-**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave las dos primeras letras de tu nombre completo (en minúscula, sin tíldes y según aparece en el Xhendra). Ejemplo: Para Juan Eduardo Juarez Pérez la clave sería: **juedjupe** (primero nombres después apellidos).
-
+<span hidden>Cada una de estas tareas tiene que estar aprobada.</span>
 
 <span hidden>Fin archivo</span>
 
