@@ -8,7 +8,9 @@ version: "20/05/26"
 
 Este trabajo te permite practicar entre otras cosas corte, agujereado, limado y torneado básico con mayor precisión en metal. Aprenderás más sobre las herramientas, instumentos y máquinas que vas a usar.
 
-Este año se propone hacer un martillo japonés similar al que se muestra en este [video](https://www.youtube.com/watch?v=Y2SohdA1ewQ).
+Este año se propone hacer un martillo japonés similar al que se muestra en este [video](https://www.youtube.com/watch?v=Y2SohdA1ewQ) y en la figura de abajo.
+
+<center>![](tp3/hammer_japanese.jpg)</center>
 
 <span class="grey3 size80">Tareas</span>
 
