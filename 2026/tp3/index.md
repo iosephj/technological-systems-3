@@ -13,12 +13,12 @@ Este año se propone hacer un martillo japonés similar al que se muestra en est
 <center>![](tp3/hammer_japanese.jpg)</center>
 
 <span class="grey3 size80">Tareas</span>
+<br>&emsp;- [1. Croquis del TP](01-croquis-tp3.html)
+<br>&emsp;- [2. Limado](02-filing-precision.html)
 
-- [1. Croquis del TP](01-croquis-tp2.html)
 
 <span class="grey3 size80">Material de consulta</span>
-
-- [Pasos para construirlo](support-japanese-hammer-steps.pdf)
+<br>&emsp;- [Pasos para construirlo](support-japanese-hammer-steps.pdf)
 
 <span hidden>Cada una de estas tareas tiene que estar aprobada.</span>
 
