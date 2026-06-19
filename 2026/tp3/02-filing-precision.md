@@ -37,7 +37,7 @@ Buenas prácticas para obtenerla más rápidamente:
 
 > **Preguntas a resolver:**
 >
-> 1. ¿Qué cosas está haciendo bien Martín?
+> 1. ¿Qué cosas está haciendo bien Pipín?
 > 2. ¿Qué errores o descuidos pueden explicar por qué no logra la perpendicularidad?
 > 3. ¿Cuál de las buenas prácticas le recomendarías corregir primero? Justifica tu respuesta.
 > 4. ¿Por qué controlar frecuentemente con la escuadra puede ahorrar tiempo de trabajo?
