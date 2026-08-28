@@ -8,14 +8,17 @@ version: "06/04/26"
 
 ### Croquis del TP1
 
+<br>
+   <center>![](../../images/tp1/croquis_3d.png){width=180px}</center>
+<br>
+
 **Croquis:** Es un dibujo simple y generalmente a mano alzada que representa un objeto o una idea, mostrando sus características principales y las medidas necesarias, sin exigir precisión de escala.
 
 El croquis del TP será siempre tu referencia para la construcción. Tienes que acostumbrarte a usarlo e interpretarlo. Fijate en las tolerancias de construcción.
 
 **Actividad:**
 
-Haz el croquis del TP a mano alzada siguiendo el modelo en papel.
-Respeta los tipos y grosores de línea.
+Haz el croquis del TP a mano alzada siguiendo el modelo en papel o el digital aquí [⌕](../../images/tp1/croquis.png). Respeta los tipos y grosores de línea.
 
 
 <!-- *** GUIDE AUXILIARY TEMPLATES *** -->

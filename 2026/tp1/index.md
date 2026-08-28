@@ -6,6 +6,10 @@ version: "20/05/26"
 
 ### TP N°1 Corte y agujereado en madera
 
+<br>
+   <center>![](../../images/tp1/modelo_3d.jpg){width=150px}</center>
+<br>
+
 En este trabajo tienes que acostumbrarte a trabajar con tolerancias que cada vez serán más pequeñas. Practicarás con un material fácil como es la madera.
 
 - [1. Primera práctica de dibujo](01-dibujo.html)

@@ -6,6 +6,12 @@ version: "20/05/26"
 
 ### TP N°2 Corte y agujereado en metal
 
+
+<br>
+   <center>![](../../images/tp2/modelo_3d.jpg){width=150px}</center>
+<br>
+
+
 Este trabajo te permite practicar corte y agujereado en metal que es más duro que la madera. Usarás el taladro de banco y evitarás la oxidación con el pavonado.
 
 - [1. Croquis del TP](01-croquis-tp2.html)

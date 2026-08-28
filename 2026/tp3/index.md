@@ -16,7 +16,7 @@ Este año se propone hacer un martillo japonés similar al que se muestra en est
 <br>&emsp;- [1. Croquis del TP](01-croquis-tp3.html)
 <br>&emsp;- [2. Limado](02-filing-precision.html)
 <br>&emsp;- [3. Introducción al torneado](03-lathe-1.html)
-
+<br>&emsp;- [4. Posicionamiento de la herramienta y frenteado](03-lathe-2.html)
 
 
 <span class="grey3 size80">Material de consulta</span>
