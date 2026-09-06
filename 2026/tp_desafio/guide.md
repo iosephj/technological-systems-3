@@ -16,7 +16,6 @@ Con la energía almacenada en un capacitor, diseñar y construir un vehículo qu
 
 Los alumnos podrán modificar, entre otras variables:
 
-* valor del capacitor;
 * resistencia en serie con el motor;
 * relación de transmisión;
 * diámetro de las ruedas;
