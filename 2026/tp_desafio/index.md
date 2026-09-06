@@ -1,35 +1,26 @@
 ---
-title: "Sistemas Tecnológicos 3"
+title: ""
 autor: "José Juarez"
-version: "20/05/26"
+version: "05/09/26"
 ---
 
-<!-- Image -->
-![](portada/portada1.png){width=400px}<br>
+### TP de desafío e investigación
 
-<div class="grey3">
-**Año:** 2026
+Este trabajo te permite integrar y profundizar cosas que aprendiste en estos primeros tres años de colegio, tanto en lo práctico como en lo teórico. También aprender e investigar a partir de un problema que reune muchas variables y no tiene una solución demasiado simple.
 
-**Profesor:** José Juarez
-</div>
+Este año consiste en diseñar y hacer un prototipo de pruebas de un autito para competencia de distancia con fuente de energía limitada.
 
 
-## Trabajos prácticos
+<center>
+![](../../images/tp_desafio/esquema-portada.jpg){width=200px}
+</center>
 
-- [TP 1: Corte y agujereado en madera](tp1/index.html)
-- [TP 2: Corte y agujereado en metal](tp2/index.html)
-- [TP 3: Trabajo en metal con tolerancias finas y torneado básico](tp3/index.html)
+<span class="grey3 size80">Datos</span>
+<br>&emsp;- [1. Guía orientativa](guide.html)
+<br>&emsp;- [2. Croquis base](croquis.pdf)
+<br>&emsp;- [3. Otras vistas isométricas](../../images/tp_desafio/esquema-ensamble.jpg)
+<br>&emsp;- [4. Circuito base](../../images/tp_desafio/circuito-base.png)
 
-## TP desafío
-
-- [Prototipo de autito para competencia de distancia](tp_desafio/index.html)
-
-
-<br>
-
----
-
-**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave las dos primeras letras de tu nombre completo (en minúscula, sin tíldes y según aparece en el Xhendra). Ejemplo: Para Juan Eduardo Juarez Pérez la clave sería: **juedjupe** (primero nombres después apellidos).
 
 
 <span hidden>Fin archivo</span>
