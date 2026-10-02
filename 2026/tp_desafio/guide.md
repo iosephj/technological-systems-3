@@ -245,6 +245,18 @@ Si el circuito de carga utiliza una resistencia de **10 $\Omega$**, una forma se
 | Fuente USB                           |        1 | **5 V, idealmente ≥ 1 A**                                       |
 
 
+## 11. Referencias
+
+- Auto a capacitor (1F - ESR 500mOhm @ 100Hz) con chasis de plástico (impresora 3D) que recorre entre 24 y 27 metros [⌕](https://www.askix.com/el-auto-con-motor-de-condensador.html). Datasheet del capacitor [⌕](https://www.digikey.com/en/products/detail/PB-5R0V105-R/283-2789-ND/1026757).
+
+- 2 supercapacitor Digikey 2,7 V - 10 F - in serie run a 12V DC motor (sin carga y por unos 5 minutos) [⌕](https://www.youtube.com/watch?v=AA0X3fyMhKI). Descarga los capacitores cortocircuiándolos de modo directo sin resistencias. Los carga conectándolos a una batería de 9 V por pocos segundos y se cargan a unos 5 V.Compró los capacitores en [banggood](https://www.banggood.com/).
+
+- Supercapacitor dragster. 12 capacitors 50 F, 2 en paralelo y 6 en serie. Lo carga con una batería de litio, aparentemente en forma directa (sin resistencia) en un segundo aprox. Compara con fórmulas la energía de un capacitor y de una batería. Aparentemente los capacitores que usa son de 3 V. 
+- Posible lugar de selección o compra de capacitores: https://ar.mouser.com/en/c/passive-components/capacitors/?capacitance=1%20F
+   + Mfr. Part #SCMR18C105MSBA0;  Mouser Part # 581-SCMR18C105MSBA0
+   + Mfr. Part # PM-5R0V105-R; Mouser Part # 504-PM-5R0V105-R
+
+
 <!-- *** GUIDE END *** -->
 
 
