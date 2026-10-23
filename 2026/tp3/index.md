@@ -18,6 +18,8 @@ Este año se propone hacer un martillo japonés similar al que se muestra en est
 <br>&emsp;- [3. Introducción al torneado](03-lathe-1.html)
 <br>&emsp;- [4. Posicionamiento de la herramienta y frenteado](03-lathe-2.html)
 <br>&emsp;- [5. La herramienta de corte](04-lathe-3.html)
+<br>&emsp;- [6. Agujeros más grandes con mechas helicoidales](05-drill-1.html)
+<br>&emsp;- [7. La sierra manual](06-hacksaws-1.html)
 
 
 <span class="grey3 size80">Material de consulta</span>
